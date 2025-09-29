@@ -1,4 +1,4 @@
-# Whack-a-Mole
+# Whack-a-Mole - *Personal Project and present for my brother's 10th bday*
 ![whack-a-mole pic](https://github.com/ibyteibit/Whack-a-Mole/blob/main/WhackaMole.png)
 ## Description
 - A Whack-a-Mole game: when an LED flashes, the player must quickly press the button next to it
