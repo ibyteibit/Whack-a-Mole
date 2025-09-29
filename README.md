@@ -4,7 +4,7 @@
 - A Whack-a-Mole game: when an LED flashes, the player must quickly press the button next to it
 - Each level, the buzzer plays “Happy Birthday” and the difficulty increases (faster blink + more whacks needed)
 - Cheat-proof: the buttons cannot be held down to score a “whack” nor can the user click them to a beat
-## Materials & Tools
+## Materials
 ### Electronics:
 - Arduino UNO
 - Breadboard
