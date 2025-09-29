@@ -6,7 +6,7 @@
 - Cheat-proof: the buttons cannot be held down to score a “whack” nor can the user click them to a beat
 ## Materials & Tools
 ### Electronics:
-- Arduino
+- Arduino UNO
 - Breadboard
 - LEDs & Buzzers
 - Pushbuttons
