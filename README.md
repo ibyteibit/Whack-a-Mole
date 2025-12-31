@@ -1,5 +1,8 @@
 # Whack-a-Mole - *Personal Project (present for my brother's 10th bday)*
 ![whack-a-mole pic](https://github.com/ibyteibit/Whack-a-Mole/blob/main/WhackaMole.png)
+<br></br>
+**Project Dates:** Feb 2023
+
 ## Description
 - A Whack-a-Mole game: when an LED flashes, the player must quickly press the button next to it
 - Each level, the buzzer plays “Happy Birthday” and the difficulty increases (faster blink + more whacks needed)
