@@ -1,4 +1,4 @@
-# Whack-a-Mole - *Personal Project*
+# Whack-a-Mole - *Personal Project (present for my brother's 10th bday)*
 ![whack-a-mole pic](https://github.com/ibyteibit/Whack-a-Mole/blob/main/WhackaMole.png)
 ## Description
 - A Whack-a-Mole game: when an LED flashes, the player must quickly press the button next to it
@@ -14,6 +14,6 @@
 ### Tools:
 - Arduino IDE
 ## Methodology
-- Developed the C++ code in Arduino IDE
-- Programmed a counter variable to control the LEDs and listen for button clicks in parallel
-- Utilized random() to select an LED to flash and to vary the wait time between flashes
+- Developed the game logic in C++ using Arduino IDE
+- Enabled parallel control of LEDs and button clicks by using millis() for delays
+- Integrated random() to select an LED to flash and vary the wait time between flashes
